@@ -1,4 +1,5 @@
-# Inheritence-Project  CHALLENGE : add a deriving Class VideoPost with a property VideoURL, Length.
+# Inheritence-Project  
+CHALLENGE : add a deriving Class VideoPost with a property VideoURL, Length.
  
 Create the required constructor to create a VideoPost
  adjust the ToString() method accordingly
