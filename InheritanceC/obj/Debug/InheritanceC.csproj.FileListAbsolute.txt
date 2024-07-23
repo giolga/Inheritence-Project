@@ -1,0 +1,7 @@
+C:\Users\GioLGA\Desktop\DotNet1\InheritanceC\InheritanceC\bin\Debug\InheritanceC.exe.config
+C:\Users\GioLGA\Desktop\DotNet1\InheritanceC\InheritanceC\bin\Debug\InheritanceC.exe
+C:\Users\GioLGA\Desktop\DotNet1\InheritanceC\InheritanceC\bin\Debug\InheritanceC.pdb
+C:\Users\GioLGA\Desktop\DotNet1\InheritanceC\InheritanceC\obj\Debug\InheritanceC.csproj.AssemblyReference.cache
+C:\Users\GioLGA\Desktop\DotNet1\InheritanceC\InheritanceC\obj\Debug\InheritanceC.csproj.CoreCompileInputs.cache
+C:\Users\GioLGA\Desktop\DotNet1\InheritanceC\InheritanceC\obj\Debug\InheritanceC.exe
+C:\Users\GioLGA\Desktop\DotNet1\InheritanceC\InheritanceC\obj\Debug\InheritanceC.pdb
